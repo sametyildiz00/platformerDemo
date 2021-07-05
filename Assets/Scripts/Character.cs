@@ -11,7 +11,7 @@ public class Character : MonoBehaviour
     Health health;
     InRange inRange;
 
-    private Rigidbody2D rigidbody2D;
+    private new Rigidbody2D rigidbody2D;
 
     private void Awake()
     {
