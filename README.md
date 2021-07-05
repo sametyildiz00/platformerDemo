@@ -5,4 +5,4 @@ Here is the demo that I made while working on Unity skills. In the future, I wil
 - Character jump;
 - Character attack;
 - Health with inheritance;
-- Interract with interface.
+- Interact with interface.
